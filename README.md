@@ -14,15 +14,6 @@ Sustainable Energy Tracker is a web-based application designed to visualize ener
 - **Data Processing**: Pandas  
 - **Visualization**: Matplotlib  
 
-### 📂 Project Structure  
-```
-📂 Sustainable-Energy-Tracker  
- ┣ 📄 app.py              # Flask application backend  
- ┣ 📄 index.html          # Frontend template  
- ┣ 📄 energy_data.csv     # Energy consumption dataset  
- ┣ 📂 static/             # Stores generated plots  
- ┗ 📄 README.md           # Project documentation  
-```
 
 ### ⚡ How to Run the Project  
 1. **Clone the repository**  
