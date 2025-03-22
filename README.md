@@ -19,8 +19,8 @@ Sustainable Energy Tracker is a web-based application designed to visualize ener
 ## 4. How to Run the Project  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/Sustainable-Energy-Tracker.git  
-   cd Sustainable-Energy-Tracker  
+   git clone https://github.com/adityachavan17/sustainable-energy-tracker.git  
+   cd sustainable-energy-tracker  
    ```
 2. Install dependencies:  
    ```sh
@@ -49,4 +49,5 @@ This project was developed for **Hackoverflow 8.0**, the official software hacka
 
 ## 8. Contributors  
 1. **Aditya Chavan** – Developer  
+ 
 
